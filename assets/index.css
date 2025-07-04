@@ -1,0 +1,8 @@
+body{
+  font-style: italic;
+  background-image: linear-gradient(to top,rgb(219, 39, 78),gray);
+}
+h2{
+  margin-left: 50px;
+  padding-top: 15px;
+}
